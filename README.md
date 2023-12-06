@@ -21,7 +21,7 @@ Users should be able to:
 
 ![screenshot1](https://github.com/nanatotibadze/countries/assets/106735126/e8b26476-2052-4f3b-9e5e-29212317acfa)]
 ![screenshot2](https://github.com/nanatotibadze/countries/assets/106735126/64b336ca-27c4-4f58-aa3b-56214bf555f2)]
-![](./screenshot.jpg)
+![screenshot3](https://github.com/nanatotibadze/countries/assets/106735126/1898852a-cb9a-40ca-8bcc-2a464122aae6)]
 ![](./screenshot.jpg)
 ![](./screenshot.jpg)
 
