@@ -17,11 +17,16 @@ Users should be able to:
 
 ### Screenshot
 
+![![screenshot1](https://github.com/nanatotibadze/countries/assets/106735126/e8b26476-2052-4f3b-9e5e-29212317acfa)
+](./screenshot.jpg)
+![](./screenshot.jpg)
+![](./screenshot.jpg)
+![](./screenshot.jpg)
 ![](./screenshot.jpg)
 
 ### Links
 
-- Live Site URL:[https://countries-list-worldwide.netlify.app/](https://countries-list-worldwide.netlify.app/)
+- Live Site URL: [https://countries-list-worldwide.netlify.app/](https://countries-list-worldwide.netlify.app/)
 
 ## My process
 
