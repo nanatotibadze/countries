@@ -17,7 +17,9 @@ Users should be able to:
 
 ### Screenshot
 
-![![screenshot1](https://github.com/nanatotibadze/countries/assets/106735126/e8b26476-2052-4f3b-9e5e-29212317acfa)](./screenshot.jpg)
+
+![rock5](https://github.com/nanatotibadze/RockPaperScissors/assets/106735126/85979214-3dec-4a5b-8ddb-8d6f43b66c18)
+![screenshot1](https://github.com/nanatotibadze/countries/assets/106735126/e8b26476-2052-4f3b-9e5e-29212317acfa)]
 ![](![screenshot1](https://github.com/nanatotibadze/countries/assets/106735126/eb55e4d3-17c0-4ecd-9e5a-18b68d022016)
 )
 ![](./screenshot.jpg)
