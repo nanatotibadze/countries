@@ -1,0 +1,15 @@
+.errorDiv {
+  text-align: center;
+  padding-top: 7rem;
+}
+
+.errorBtn {
+  font-family: inherit;
+  font-size: 1.6rem;
+  padding: 1.4rem 2rem;
+  margin-top: 4rem;
+  border: none;
+  outline: none;
+  border-radius: 1rem;
+  cursor: pointer;
+}

@@ -1,0 +1,66 @@
+.navigation {
+  min-width: 100vw;
+  display: flex;
+  height: 8rem;
+  justify-content: space-between;
+
+  padding: 2.9rem 8rem;
+
+  align-items: center;
+  @media only screen and (max-width: 600px) {
+    padding: 3rem 1.6rem;
+    justify-content: space-evenly;
+  }
+}
+
+.lightMode {
+  color: black;
+  background-color: #fff;
+  box-shadow: 0px 2px 4px 0px #0000000f;
+}
+
+.dark {
+  background: #2b3844;
+
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+  color: #fff;
+}
+
+h2 {
+  font-size: 2.4rem;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  @media only screen and (max-width: 640px) {
+    font-size: 1.4rem;
+  }
+}
+.navHome {
+  cursor: pointer;
+}
+h3 {
+  font-size: 1.6rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  @media only screen and (max-width: 640px) {
+    font-size: 1.2rem;
+  }
+}
+
+.darkMode {
+  display: flex;
+  gap: 1rem;
+  cursor: pointer;
+  @media only screen and (max-width: 640px) {
+    gap: 0.5rem;
+  }
+}
+.darkMode svg {
+  width: 2rem;
+  height: 2rem;
+  @media only screen and (max-width: 640px) {
+    width: 1rem;
+    height: 1rem;
+  }
+}

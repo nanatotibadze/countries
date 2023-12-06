@@ -1,0 +1,10 @@
+.main {
+  background-color: #fafafa;
+  color: #111517;
+  max-width: 100vw;
+}
+
+.dark {
+  background-color: #202c36;
+  color: #fff;
+}
