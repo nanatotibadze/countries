@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://countries-list-worldwide.netlify.app/]([https://countries-worldwide.netlify.app/](https://countries-worlwide.netlify.app/))
+- Live Site URL: [https://countries-worldwide.netlify.app/](https://countries-worlwide.netlify.app/)
 
 ## My process
 
