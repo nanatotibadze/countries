@@ -17,7 +17,7 @@ function CountryItem({name, population, region, capital, flags, cca3}) {
       onClick={() => navigate(`/alpha/${cca3}`)}
     >
       <div>
-        <img src={flags.png} className={classes.flag} />
+        <img src={flags.png} className={classes.flag} alt={"country flag"}/>
       </div>
       <div className={classes.description}>
         <h4 className={darkMode ? classes.dark : classes.light}>{name}</h4>
