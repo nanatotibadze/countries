@@ -15,7 +15,7 @@ function CountryDetail({country, all}) {
 
   const languages = country.languages ? Object.values(country.languages) : null;
   const navigate = useNavigate();
-  const {darkMode} = useOutletContext();
+  const {darkMode, query} = useOutletContext();
 
   function countryIndicator(code) {
     const indicator = all.filter((item) => item.cca3 === code);
