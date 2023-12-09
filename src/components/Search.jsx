@@ -5,8 +5,8 @@ import {useOutletContext} from "react-router-dom";
 
 function Search() {
   const {darkMode} = useOutletContext();
+  const {query, setQuery} = useOutletContext();
 
-  const [query, setQuery] = useState("");
   const navigate = useNavigate();
 
   function handleSubmit(e) {
@@ -17,19 +17,19 @@ function Search() {
 
   function inputHandler(e) {
     e.preventDefault();
-    navigate(`/name/${query}`);
-    setQuery("");
+    setQuery(e.target.value);
+    if (query) navigate("/name/country");
+    if (!query) navigate("/");
   }
 
   return (
     <div className={classes.searchSection}>
       <div>
-        <form onSubmit={inputHandler}>
+        <form onChange={inputHandler}>
           <label className={classes.inputLabel}> </label>{" "}
           <input
             placeholder='Search for a country…'
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
+            defaultValue={query}
             className={`${classes.input} ${
               darkMode ? classes.dark : classes.light
             }`}
