@@ -2,14 +2,14 @@ import classes from "./Home.module.css";
 import Search from "../components/Search";
 import Countries from "../components/Countries";
 import {useLoaderData} from "react-router-dom";
-import {getCountry} from "../services/apiCountries";
+
 import {getCountries} from "../services/apiCountries";
 import {useOutletContext} from "react-router-dom";
 
 function Country() {
   const country = useLoaderData();
   const {query} = useOutletContext();
-  console.log(query);
+
   const searchResult = country.filter((item) =>
     item.name.common.toLowerCase().includes(query.toLowerCase())
   );
