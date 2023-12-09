@@ -17,12 +17,18 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+
+
+![screenshot1](https://github.com/nanatotibadze/countries/assets/106735126/e8b26476-2052-4f3b-9e5e-29212317acfa)
+![screenshot2](https://github.com/nanatotibadze/countries/assets/106735126/64b336ca-27c4-4f58-aa3b-56214bf555f2)
+![screenshot3](https://github.com/nanatotibadze/countries/assets/106735126/1898852a-cb9a-40ca-8bcc-2a464122aae6)
+![screenshot4](https://github.com/nanatotibadze/countries/assets/106735126/9bb9eddf-467e-41a1-8817-271218e7cbaa)
+![screenshot5](https://github.com/nanatotibadze/countries/assets/106735126/5e6b34d7-c410-43b5-a8e4-48f4a7970116)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://countries-list-worldwide.netlify.app/](https://countries-list-worldwide.netlify.app/)
 
 ## My process
 
