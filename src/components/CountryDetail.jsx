@@ -66,7 +66,7 @@ function CountryDetail({country, all}) {
       <div className={classes.container}>
         <div className={classes.flagDiv}>
           {" "}
-          <img src={country.flags.png} />
+          <img src={country.flags.png} alt = {country.name.common} />
         </div>
         <div className={classes.details}>
           <h2>{country.name.common}</h2>
